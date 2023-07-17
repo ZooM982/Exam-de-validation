@@ -515,5 +515,8 @@ button{
 		margin: 0;
 		margin-left: -150px;
 	}
+	.space{
+		width: 100%;
+	}
 
 }
