@@ -419,6 +419,7 @@ button{
 	}
 	.text-who{
 		margin: 0;
+		width: 100%;
 	}
 	.text-who h1{
 		margin-left: -30px;
@@ -445,17 +446,21 @@ button{
 	}
 	.div0{
 		display: inline-grid;
+		width: 100%;
 	}
 	.text-who1{
-		margin-left: -110px;
+		margin-left: -20px;
+		width: 100%;
 	}
 	.text-who1 p{
-		width: 300px;
-		margin-left: 50px;
+		width: 250px;
+		margin-left: 10px;
+		margin-bottom: 50px;
 	}
 	.div-1{
 		width: 250px;
 		margin: 20px;
+		margin-top: 100px;
 		margin-left: -20px;
 		height: 300px;
 	}
