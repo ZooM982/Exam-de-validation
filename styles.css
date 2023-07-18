@@ -380,23 +380,40 @@ button{
 		margin: 0;
 		padding: 0;
 	}
+	header{
+		margin: 0;
+		padding: 0;
+	}
 
 	nav{
 	display: inline-flex;
 	color: #fff;
 	}
-	nav .home{
+	.home{
 	margin-left: 150px;
 	font-size: 25px;
 	margin-top: 20px;
 	}
-	nav .link{
+	.link{
 		margin-top: 60px;
 		margin-left: -300px;
-		width: 450px;
+		width: 400px;
 	}
-	nav .nav-icon{
-		margin-left: -270px;
+	.corp{
+		width: 350px;
+	}
+	.corp h1{
+		width: 350px;
+	}
+	.button .btn{
+		width: 130px;
+	}
+	.btn p{
+		font-size: 15px;
+		margin-left: -20px;
+	}
+	.nav-icon{
+		margin-left: -220px;
 		margin-top: 100px;
 	}
 	.barre{
@@ -467,16 +484,22 @@ button{
 
 	.section4{
 		display: grid;
+		width: 350px;
+	}
+	.world1{
+		width: 300px;
 	}
 	.text-who2{
-		margin-left: -30px;
+		margin-left: 20px;
+		width: 350px;
 	}
 	.text-who2 p{
 		width: 300px;
-		margin-left: 80px;
+		margin-left: 30px;
 	}
 	.team-top{
 		display: grid;
+		width: 350px;
 	}
 	.team{
 		margin: 20px;
@@ -484,6 +507,8 @@ button{
 	}
 	.world{
 		display: grid;
+		width: 350px;
+		margin-left: 10px;
 	}
 	.We-have{
 		margin: 0;
@@ -497,9 +522,13 @@ button{
 		width: 300px;
 		margin-bottom: 50px;
 	}
+	.section5{
+		width: 300px;
+	}
 	.formulaire{
 		display: grid;
 		width: 300px;
+		margin-left: 45px;
 	}
 	.formulaire img{
 		height: 250px;
